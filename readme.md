@@ -1,4 +1,4 @@
-# Census Data Analysis
+## Census Data Cleaning
 This project focuses on cleaning and preparing US Census data for demographic analysis. The raw dataset contained inconsistencies, duplicates, and poorly structured columns—this workflow standardizes the data for accurate insights.
 
 ## Project Overview
