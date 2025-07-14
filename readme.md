@@ -1,4 +1,4 @@
-# US Census Data Analysis
+# Census Data Analysis
 
 This project analyzes US Census data to explore demographic trends across different states. The dataset includes information on population, race, income, and gender distribution.
 
