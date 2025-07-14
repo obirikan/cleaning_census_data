@@ -1,6 +1,5 @@
 # Census Data Analysis
-
-This project analyzes US Census data to explore demographic trends across different states. The dataset includes information on population, race, income, and gender distribution.
+This project focuses on cleaning and preparing US Census data for demographic analysis. The raw dataset contained inconsistencies, duplicates, and poorly structured columns—this workflow standardizes the data for accurate insights.
 
 ## Project Overview
 
