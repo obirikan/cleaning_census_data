@@ -23,7 +23,7 @@ The analysis focuses on:
 
 ## Key Files
 - `main.ipynb`: Jupyter notebook containing the cleaning process
-- `census_analysis.ipynb`: Jupyter notebook containing the full analysis
+- `census_analysis.ipynb`: Jupyter notebook containing the full analysis //todo
 - `dataset/`: Folder containing the original state CSV files
 
 ## Technologies Used
